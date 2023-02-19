@@ -129,11 +129,6 @@ a{
     .btn{
         min-width: unset;
     }
-    .action-container{
-        flex-direction: column;
-        align-items: center;
-        width: 90%;
-    }
 }
 
 @media (max-width: 350px){
